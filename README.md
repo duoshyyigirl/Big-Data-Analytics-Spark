@@ -16,7 +16,7 @@ factors ▪ Inner products
 ### Noarmalization
 
 ## Models and Evaluation
-![Logistic](img/logi.png)
+![Logistic](https://github.com/duoshyyigirl/Big-Data-Analytics-Spark/blob/master/img/Logi.PNG)
 
 ### Logistic Regression
 ### SVM
