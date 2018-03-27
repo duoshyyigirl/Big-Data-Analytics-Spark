@@ -16,6 +16,8 @@ factors ▪ Inner products
 ### Noarmalization
 
 ## Models and Evaluation
+![Logistic](img/logi.png)
+
 ### Logistic Regression
 ### SVM
 ### Random Forest 
