@@ -16,10 +16,14 @@ factors ▪ Inner products
 ### Noarmalization
 
 ## Models and Evaluation
-![Logistic](https://github.com/duoshyyigirl/Big-Data-Analytics-Spark/blob/master/img/Logi.PNG)
+
 
 ### Logistic Regression
+![Logistic](https://github.com/duoshyyigirl/Big-Data-Analytics-Spark/blob/master/img/Logi.PNG)
 ### SVM
+![SVM]https://github.com/duoshyyigirl/Big-Data-Analytics-Spark/blob/master/img/svm.PNG
 ### Random Forest 
+![rf]https://github.com/duoshyyigirl/Big-Data-Analytics-Spark/blob/master/img/RF.PNG
 ### XGBoost
+![xgb]https://github.com/duoshyyigirl/Big-Data-Analytics-Spark/blob/master/img/xgb.PNG
 
